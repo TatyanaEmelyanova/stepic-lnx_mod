@@ -5,3 +5,5 @@
 *.cmd
 *.order
 *.symvers
+*.sublime-project
+*.sublime-workspace
